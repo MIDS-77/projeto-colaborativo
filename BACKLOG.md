@@ -1,6 +1,6 @@
 # Backlog de Features - Squads MIDS 77
 
-## Squad 1: Seção Sobre (Catarina)
+## Squad 1: Seção Sobre (Matheus)
 MIDS77-01 - Adicionar descrição fictícia do projeto
 MIDS77-02 - Criar parágrafo explicando o objetivo da aplicação
 MIDS77-03 - Estilizar a seção com título destacado (usar HTML básico)
