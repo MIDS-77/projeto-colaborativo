@@ -26,7 +26,29 @@
             <textarea id="message" name="message"></textarea>
         </div>
 
-    <button onclick="window.location.href='confirmacao.html'" class="button">Enviar</button>
-    <button onclick="window.location.href='../index.html'" class="button">Voltar ao Início</button>
+    </form>
+
+    <script>
+        const form = document.getElementById('contactForm');
+
+        form.addEventListener('submit', function(event) {
+            // Verifica se o formulário é válido (validação HTML5)
+            if (form.checkValidity()) {
+                // Impede o envio padrão do formulário (que recarregaria a página)
+                event.preventDefault();
+
+                // Coleta os dados do formulário
+                const formData = new FormData(form);
+                const queryParams = new URLSearchParams(formData).toString();
+
+                // Redireciona para a página de confirmação
+                window.location.href = 'confirmacao.html';
+            } else {
+                // Se inválido, a validação HTML5 padrão já exibirá as mensagens de erro
+                // Não precisamos fazer nada aqui, apenas impedir o envio padrão
+                event.preventDefault();
+            }
+        });
+    </script>
 </body>
 </html> 
