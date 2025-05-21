@@ -15,7 +15,7 @@ MIDS77-07 - Adicionar informações de contato fictícias (email, telefone)
 MIDS77-08 - Criar um pequeno formulário de contato com campos: nome, email, mensagem
 MIDS77-09 - Estilizar com separação visual (linha ou fundo claro)
 
-## Squad 4: Header e Footer
+## Squad 4: Header e Footer (Melissa)
 MIDS77-10 - Criar um rodapé com direitos autorais
 MIDS77-11 - Adicionar uma navegação no topo com links internos para cada seção
 MIDS77-12 - Melhorar o visual do título principal
