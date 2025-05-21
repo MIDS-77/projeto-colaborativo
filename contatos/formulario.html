@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- essa tag é responsável pela responsividade, ajustando o site à largura do dispositivo e definindo o zoom inicial -->
+    <title>Formulário de Contato</title>
+    <link rel="stylesheet" href="../styles/form.css">
+</head>
+<body>
+    <h2>Formulário de Contato</h2>
+        <div>
+            <label for="name">Nome:</label>
+            <!-- cria um rótulo para o campo de entrada, conectando o for="name" com o id="name" -->
+            <input type="text" id="name" name="name">
+            <!-- cria um campo de entrada de texto -->
+        </div>
+
+        <div>
+            <label for="email">Email:</label>
+            <input type="text" id="email" name="email">
+        </div>
+
+        <div>
+            <label for="message">Mensagem:</label>
+            <textarea id="message" name="message"></textarea>
+        </div>
+
+    <button onclick="window.location.href='confirmacao.html'" class="button">Enviar</button>
+    <button onclick="window.location.href='../index.html'" class="button">Voltar ao Início</button>
+</body>
+</html> 
