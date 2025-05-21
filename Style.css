@@ -16,12 +16,22 @@
 
 td{
     
-  text-align: "center";
+  padding: 30px;
+  text-align: center;
   
 }
 
 table{
 
-  text-align: "center";
+  margin-left: auto;
+  margin-right: auto;
+  padding: 65px;
+  
+}
+
+a{
+
+  text-decoration: none;
+  color: #ac7e00;
 
 }
