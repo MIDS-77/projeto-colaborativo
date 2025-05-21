@@ -1,11 +1,11 @@
 # Backlog de Features - Squads MIDS 77
 
-## Squad 1: Seção Sobre ( Daniel )
+## Squad 1: Seção Sobre (Catarina)
 MIDS77-01 - Adicionar descrição fictícia do projeto
 MIDS77-02 - Criar parágrafo explicando o objetivo da aplicação
 MIDS77-03 - Estilizar a seção com título destacado (usar HTML básico)
 
-## Squad 2: Seção Recursos
+## Squad 2: Seção Recursos (Daniel)
 MIDS77-04 - Trocar os itens da lista por recursos reais (ex: formulário, galeria, mapa)
 MIDS77-05 - Adicionar pelo menos 3 recursos com ícones ou emojis
 MIDS77-06 - Adicionar uma breve explicação abaixo da lista
