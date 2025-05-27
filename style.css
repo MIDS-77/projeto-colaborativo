@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    display: flex;
+    font-size: 23px;
+    padding-left: 10px;
+    margin-inline-start: 150px;
+    border-left: 5px solid #0f954b;
+}
+
+p {
+    display: flex;
+    font-size: 20px;
+    text-align: justify;
+    margin-top: 25px;
+    margin-bottom: 70px;
+    margin-inline-start: 150px;
+    margin-inline-end: 150px;
+}
