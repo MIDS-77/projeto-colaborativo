@@ -19,3 +19,5 @@ MIDS77-09 - Estilizar com separação visual (linha ou fundo claro)
 MIDS77-10 - Criar um rodapé com direitos autorais
 MIDS77-11 - Adicionar uma navegação no topo com links internos para cada seção
 MIDS77-12 - Melhorar o visual do título principal
+MIDS77-14 - Fazer página termos de uso
+MIDS77-15 - Estilizar página termos de uso
