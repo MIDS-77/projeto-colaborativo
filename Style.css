@@ -1,37 +1,97 @@
-.github{
+div {}
 
+.github {
     color: blue;
-
 }
 
-#botaoVoltar{
 
+#botaoVoltar {
     background-image: url(https://cdn-icons-png.flaticon.com/512/786/786197.png);
-    background-repeat: no-repeat ;
+    background-repeat: no-repeat;
     background-size: cover;
     width: 40px;
-    height: 40px;;
+    height: 40px;
+    ;
+}
+
+td {
+    padding-left: 247px;
+    padding-right: 247px;
+    padding-top: 75px;
+    text-align: center;
+}
+
+table {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
 
 }
 
-td{
-    
-  padding: 30px;
-  text-align: center;
-  
+a {
+    text-decoration: none;
 }
 
-table{
-
-  margin-left: auto;
-  margin-right: auto;
-  padding: 65px;
-  
+#Titulo_Principal_Recurso {
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
 }
 
-a{
+.container-polaroide {
+    display: flex;
+    justify-content: space-between;
+}
 
-  text-decoration: none;
-  color: #ac7e00;
+body {
+    font-family: Arial, sans-serif;
+    background-color: whitesmoke;
+}
 
+body>div {
+    /* seleciona a div que é filha direta do body, para nao repetir as configuracoes de fundo, padding, bordas e sombra */
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #1a237e;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #333;
+    margin-bottom: 30px;
+    line-height: 1.6;
+}
+
+.icon {
+    font-size: 48px;
+    color: #1976d2;
+    margin-bottom: 20px;
+}
+
+.button-container {
+    display: flex;
+    gap: 15px;
+}
+
+
+
+a:hover {
+    background-color: #1565c0;
+    transform: translateY(-2px);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.espacamento{
+    display: flex;
+    justify-content: space-around;
+}
+
+#recursos{
+    text-align: center;
 }
