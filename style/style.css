@@ -1,0 +1,28 @@
+
+.subtitulo{
+    border-radius:10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 800px;
+    margin-right:800px;
+    font-size: 30px;
+    padding: 10px 10px;
+    font-style: italic;
+    text-align: center;
+    font-family: Arial,  sans-serif;
+    padding: 8px px;
+    background-color: #1a237e;
+    color: white;
+    text-decoration:dashed
+
+    
+    
+}
+.texto{
+    font-family: Arial,sans-serif;
+    text-align: center;
+    margin-left: 400px;
+    margin-right:400px;
+    font-size: 17px
+    
+}
