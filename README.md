@@ -30,7 +30,50 @@
 
 </div>
 
+# 🧾 Requisitos para Visualizar
+
+Você pode acessar o código fonte do projeto através do link a seguir:<a href="https://github.com/MIDS-77/projeto-colaborativo" style="font-size: 23px; margin-top: 10px; padding: 10px; text-decoration: none; color: rgb(3, 0, 46); display: block;">
+<sub>Acessar o código fonte do projeto</sub>
+</a> 
+<p>    </p>
+
+
+# 🛠️ Abrir e rodar o projeto
+
+PRIMEIRA OPÇÃO ‼️: Baixando o Arquivo.
+
+1️⃣ Baixando o projeto.ZIP 📩: Primeiramente você terá que baixar o arquivo do projeto no link mencionado anteriormente, para isto você deve clicar em **<> Code** especificada em azul/verde, e selecionar a opção baixar Download ZIP.
+
+2️⃣ Extrair o arquivo.ZIP 📁: Após baixar o arquivo.ZIP, encontre ele na pasta downloads e extraia o arquivo.
+
+3️⃣ Abra a IDE 🔗: Após extrair o arquivo, abra a IDE que deseja executar o projeto:
+
+4️⃣ Importando o projeto 📥: Importe o projeto, a localização dependrá da IDE que você vai utilizar.
+
+
+<p>    </p>
+
+SEGUNDA OPÇÃO ‼️: Clonar com Git.
+Abra o terminal (ou prompt) 🖥️
+
+```bash
+git clone https://github.com/usuario/repositorio.git
+```
+
+🏃‍♂️📂 Execute o Projeto:
+
+Se você possui a extensão Java no VScode você pode rodar clicando no play. Caso contrário rode a partir do terminal digitando o seguinte comando:
+
+```bash
+cd "C:\caminho\para\seu\projeto" && start index.html
+
+# ⬆️‼️ Substitua pelo caminho real onde está seu projeto.
+
+```
+
+
+
+
 # 🎥 Vídeo Rodando o Projeto:
 
-# 👥 Autores
 
