@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-h3 {
+.conteudo-termos-uso h3 {
     display: flex;
     font-size: 23px;
     padding-left: 10px;
@@ -11,7 +11,7 @@ h3 {
     border-left: 5px solid #0f954b;
 }
 
-p {
+.conteudo-termos-uso p {
     display: flex;
     font-size: 20px;
     text-align: justify;
