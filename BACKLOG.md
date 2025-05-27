@@ -12,8 +12,8 @@ MIDS77-06 - Adicionar uma breve explicação abaixo da lista
 
 ## Squad 3: Seção Contato (Cadu)
 MIDS77-07 - Adicionar informações de contato fictícias (email, telefone)
-MIDS77-08 - Criar um pequeno formulário de contato com campos: nome, email, mensagem
-MIDS77-09 - Estilizar com separação visual (linha ou fundo claro)
+MIDS77-08 - Criar um pequeno formulário de contato com campos: nome, email, mensagem ✅
+MIDS77-09 - Estilizar com separação visual (linha ou fundo claro) ✅
 
 ## Squad 4: Header e Footer (Melissa)
 MIDS77-10 - Criar um rodapé com direitos autorais
