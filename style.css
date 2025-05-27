@@ -2,3 +2,13 @@
     margin: 0;
     padding: 0;
 }
+
+footer{
+    background-color:#acffbd;
+
+}
+footer a{
+    display: flex;
+    flex-direction: column-reverse;
+    color: black;
+}
