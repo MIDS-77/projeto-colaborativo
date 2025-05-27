@@ -30,6 +30,7 @@
 
 </div>
 
+<br>
 
 # 🏠 Estrutura do Projeto
 
@@ -45,6 +46,7 @@ projeto-colaborativo
    ├── index.html
 
 ```
+<br>
 
 
 # 🧾 Requisitos para Visualizar
