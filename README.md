@@ -30,6 +30,23 @@
 
 </div>
 
+
+# 🏠 Estrutura do Projeto
+
+O projeto deve apresentar na estrutura abaixo, sem variações:
+
+```bash
+projeto-colaborativo
+└── main
+   ├── BACKLOG.md
+   ├── README.md
+   ├── instruções.md
+   ├── style.css
+   ├── index.html
+
+```
+
+
 # 🧾 Requisitos para Visualizar
 
 Você pode acessar o código fonte do projeto através do link a seguir:<a href="https://github.com/MIDS-77/projeto-colaborativo" style="font-size: 23px; margin-top: 10px; padding: 10px; text-decoration: none; color: rgb(3, 0, 46); display: block;">
