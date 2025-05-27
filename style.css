@@ -4,10 +4,10 @@
 }
 
 footer{
-    background-color: #acffbd;
     padding: 25px;
     border: 1px;
     border: black;
+    background-color: #0f954b;
 }
 footer a{
     display: flex;
