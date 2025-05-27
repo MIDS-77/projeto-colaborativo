@@ -66,7 +66,7 @@ git clone https://github.com/usuario/repositorio.git
 
 🏃‍♂️📂 Execute o Projeto:
 
-Se você possui a extensão Java no VScode você pode rodar clicando no play. Caso contrário rode a partir do terminal digitando o seguinte comando:
+Rode a partir do terminal digitando o seguinte comando:
 
 ```bash
 cd "C:\caminho\para\seu\projeto" && start index.html
