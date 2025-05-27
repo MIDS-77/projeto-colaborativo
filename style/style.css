@@ -1,5 +1,5 @@
 
-.subtitulo{
+h2{
     border-radius:10px;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -18,11 +18,18 @@
     
     
 }
-.texto{
+p{
     font-family: Arial,sans-serif;
     text-align: center;
     margin-left: 400px;
     margin-right:400px;
     font-size: 17px
     
+}
+li{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 800px;
+    margin-right:800px;
 }
