@@ -21,6 +21,9 @@
 | 📑 **index.html**               | Arquivo principal que serve como base para o desenvolvimento da aplicação. Qualquer alteração na estrutura da página começa por aqui.        |
 | 📂 **Integração entre Squads**  | Planejamento e execução de funcionalidades de forma coordenada entre as squads, garantindo a integração fluida do código de todas as partes. |
 
+<br>
+<br>
+
 # 👾 Tecnologias Utilizadas
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
@@ -94,9 +97,5 @@ cd "C:\caminho\para\seu\projeto" && start index.html
 
 ```
 
-
-
-
-# 🎥 Vídeo Rodando o Projeto:
 
 
