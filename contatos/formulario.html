@@ -1,19 +1,21 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Formulário de Contato</title>
     <link rel="stylesheet" href="../styles/formulario.css">
 </head>
+
 <body>
+
     <h2>Formulário de Contato</h2>
 
-    <form
-      id="formularioContato"
-      action="https://formspree.io/f/xanorerq"
-      method="POST"
-    >
+    <!-- Esse form é responsável por fazer a integração com a API Formspree, 
+    para que as mensagens sejam diretamente enviadas para o email mids77.centroweg@gmail.com -->
+    <form id="formularioContato" action="https://formspree.io/f/xanorerq" method="POST">
+
         <div>
             <label for="name">Nome:</label>
             <input type="text" id="name" name="name" required>
@@ -29,11 +31,14 @@
             <textarea id="message" name="message" required></textarea>
         </div>
 
-        <button type="submit">Enviar</button>
+        <!-- Agrupa os dois botões para aplicar o espaçamento -->
+        <div class="button-group">
+            <button type="submit">Enviar</button>
+            <button type="button" onclick="location.href='../index.html'">Voltar ao Início</button>
+        </div>
+
     </form>
 
-    <button onclick="location.href='../index.html'">Voltar ao Início</button>
-
-    <script src="./formulario.js"></script>
 </body>
+
 </html>
