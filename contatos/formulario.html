@@ -1,37 +1,44 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- essa tag é responsável pela responsividade, ajustando o site à largura do dispositivo e definindo o zoom inicial -->
     <title>Formulário de Contato</title>
     <link rel="stylesheet" href="../styles/formulario.css">
 </head>
+
 <body>
+
     <h2>Formulário de Contato</h2>
-    <form action="confirmacao.html" method="get">
+
+    <!-- Esse form é responsável por fazer a integração com a API Formspree, 
+    para que as mensagens sejam diretamente enviadas para o email mids77.centroweg@gmail.com -->
+    <form id="formularioContato" action="https://formspree.io/f/xanorerq" method="POST">
+
         <div>
             <label for="name">Nome:</label>
-            <!-- cria um rótulo para o campo de entrada, conectando o for="name" com o id="name" -->
-            <input type="text" id="name" name="name">
-            <!-- cria um campo de entrada de texto -->
+            <input type="text" id="name" name="name" required>
         </div>
 
         <div>
-            <label for="email">Email:</label>
+            <label for="email">Seu Email:</label>
             <input type="email" id="email" name="email" required>
         </div>
 
         <div>
-            <label for="message">Mensagem:</label>
-            <textarea id="message" name="message"></textarea>
+            <label for="message">Sua Mensagem:</label>
+            <textarea id="message" name="message" required></textarea>
         </div>
 
-        <button type="submit">Enviar</button>
-        <button onclick="location.href='../index.html'">Voltar ao Início</button>
+        <!-- Agrupa os dois botões para aplicar o espaçamento -->
+        <div class="button-group">
+            <button type="submit">Enviar</button>
+            <button type="button" onclick="location.href='../index.html'">Voltar ao Início</button>
+        </div>
+
     </form>
 
-<script src="./formulario.js"></script>
-
 </body>
+
 </html>
