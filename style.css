@@ -9,6 +9,7 @@ footer{
     border: black;
     background-color: #0f954b;
 }
+
 footer a{
     display: flex;
     flex-direction: column;
@@ -18,4 +19,16 @@ footer a{
 }
 footer p{
     justify-self: center;
+    padding: 10px;
+}
+
+.rodape {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+}
+
+.rodape p {
+    padding: 10px;
 }
