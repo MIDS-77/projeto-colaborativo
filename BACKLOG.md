@@ -4,6 +4,7 @@
 MIDS77-01 - Adicionar descrição fictícia do projeto
 MIDS77-02 - Criar parágrafo explicando o objetivo da aplicação
 MIDS77-03 - Estilizar a seção com título destacado (usar HTML básico)
+MIDS77-14 - Merge de pastas de style duplicadas
 
 ## Squad 2: Seção Recursos (Kael)
 MIDS77-04 - Trocar os itens da lista por recursos reais (ex: formulário, galeria, mapa)
