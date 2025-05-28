@@ -30,6 +30,7 @@ table {
 
 a {
     text-decoration: none;
+    color: #0f954b;
 }
 
 #Titulo_Principal_Recurso {
@@ -58,7 +59,7 @@ body>div {
 }
 
 h1 {
-    color: #1a237e;
+    color: #0f954b;
     margin-bottom: 20px;
 }
 
@@ -70,7 +71,7 @@ p {
 
 .icon {
     font-size: 48px;
-    color: #1976d2;
+    color: #0f954b;
     margin-bottom: 20px;
 }
 
@@ -79,10 +80,8 @@ p {
     gap: 15px;
 }
 
-
-
 a:hover {
-    background-color: #1565c0;
+    background-color: #acffbd;
     transform: translateY(-2px);
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
@@ -94,4 +93,11 @@ a:hover {
 
 #recursos{
     text-align: center;
+}
+
+.imagem{
+
+    width: 120;
+    height: 120px;
+
 }
