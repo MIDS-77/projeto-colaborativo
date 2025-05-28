@@ -9,7 +9,7 @@ body {
 }
 
 h2 {
-    color: #0f954b;
+    color: #005ba4;
     text-align: center;
     margin-bottom: 30px;
 }
@@ -21,7 +21,7 @@ div {
 label {
     display: block;
     margin-bottom: 6px;
-    color: #0f954b;
+    color: #005ba4;
     font-weight: bold;
 }
 
@@ -29,14 +29,14 @@ input,
 textarea {
     width: 100%;
     padding: 10px;
-    border: 1.5px solid #0f954b;
+    border: 1.5px solid #005ba4;
     border-radius: 6px;
     background-color: white;
 }
 
 input:focus,
 textarea:focus {
-    border-color: #0b6e39;
+    border-color: #0090c5;
 }
 
 textarea {
@@ -52,7 +52,7 @@ textarea {
     width: 100%;
     margin-bottom: 24px;
     padding: 14px;
-    background-color: #0f954b;
+    background-color: #0090c5;
     color: white;
     border: none;
     border-radius: 6px;
@@ -62,5 +62,5 @@ textarea {
 }
 
 .button-group button:hover {
-    background-color: #0b6e39;
+    background-color: #005ba4;
 }
