@@ -30,7 +30,6 @@
   <img loading="lazy" src="https://img.shields.io/badge/%20GITHUB-005ba4?style=for-the-badge&logo=" style="width: 131px;"/>
   <img loading="lazy" src="https://img.shields.io/badge/%20HTML-0090c5?style=for-the-badge&logo=" style="width: 104px;"/>
   <img loading="lazy" src="https://img.shields.io/badge/%20CSS-97c2d1?style=for-the-badge&logo=" style="width: 85px;"/>
-
 </div>
 
 <br>
